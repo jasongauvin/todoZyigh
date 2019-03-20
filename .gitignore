@@ -1,0 +1,8 @@
+/out/ 
+.idea 
+*.iml 
+gen 
+*.DS_Store 
+.AppleDouble 
+.LSOverride
+
