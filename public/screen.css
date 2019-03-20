@@ -1,0 +1,9 @@
+.header{
+    display: flex;
+    justify-content: space-between;
+}
+nav{
+    width: 50%;
+    display: flex;
+    justify-content: space-between;
+}
